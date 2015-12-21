@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GCountdown</string>
     <string name="action_settings">Settings</string>
+    <string name="title_home">倒计时列表</string>
+    <string name="title_timetast">使用Java的Timer与TimerTask</string>
+    <string name="title_handlermsg">Handler与Message</string>
+    <string name="title_timehandler">TimerTask与Handler</string>
 </resources>
